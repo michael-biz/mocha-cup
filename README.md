@@ -1,4 +1,5 @@
 # MochaCup
+[![Build Status](https://travis-ci.com/michael-biz/mocha-cup.svg?branch=master)](https://travis-ci.com/michael-biz/mocha-cup)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
